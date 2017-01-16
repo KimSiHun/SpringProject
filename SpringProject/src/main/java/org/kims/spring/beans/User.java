@@ -87,11 +87,6 @@ public class User
 		return userPhoneNum;
 	}
 
-	public void userInfo()
-	{
-		System.out.println("user name is: " + userName);
-		System.out.println("user cell num is: " + userPhoneNum);
-		System.out.println("user e-mail is: " + userEMail);
-	}
+	
 
 }
